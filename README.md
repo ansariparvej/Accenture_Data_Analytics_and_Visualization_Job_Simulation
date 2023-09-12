@@ -9,7 +9,7 @@
  - One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
  - She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
  - Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning.
- - About Client : [Social Buzz](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Data_Analytics%20Client%20Brief.pdf)
+ - About Client : [Social Buzz](https://github.com/ansariparvej/Accenture_Data_Analytics_and_Visualization_Job_Simulation/blob/main/Data%20Analysis/Data_Analytics%20Client%20Brief.pdf)
 
 #### Task for Accenture : 
 
@@ -27,7 +27,7 @@ In short, the client wanted to see **“An analysis of their content categories 
 ## Task_2 - Data Cleaning & Modeling
 
  - Often you won’t need all these datasets to find what you’re looking for.
- - So, the first step is to use this [data model](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Data%20model.pdf) to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
+ - So, the first step is to use this [data model](https://github.com/ansariparvej/Accenture_Data_Analytics_and_Visualization_Job_Simulation/blob/main/Task_2%3A%20Data%20Cleaning%20%26%20Modeling/Task_2%3A%20Data%20Cleaning%20%26%20Modeling.pdf) to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
  - After Analysis we got data sets needed to complete analysis:
  >- Reaction Score(score is used to quantified the popularity)
  >- Content ID
@@ -66,9 +66,10 @@ In short, the client wanted to see **“An analysis of their content categories 
   >- Pie Chart
   >- Bar Chart
   
- - Powerpoint Presentation : [PPT](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/PowerPoint%20presentation.pptx)
+ - Powerpoint Presentation : [PPT](https://github.com/ansariparvej/Accenture_Data_Analytics_and_Visualization_Job_Simulation/blob/main/Task_3%3A%20Data%20Visualization%20%26%20Storytelling/PowerPoint%20presentation.pdf)
  
  ## Task_4 - Present to the Client
  
  **Present your powerpoint presentation to the client and deliver the insights of your analysis** 
  
+- Video_Presentation : [PPT](https://github.com/ansariparvej/Accenture_Data_Analytics_and_Visualization_Job_Simulation/blob/main/Task_4%3A%20Present%20to%20the%20Client/Presentation.webm)
